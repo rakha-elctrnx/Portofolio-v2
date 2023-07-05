@@ -72,10 +72,10 @@ export default {
         },
         {
           id: 12,
-          name: 'MySQL',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968313.png',
-          status: 'Intermediate'
-        },
+          name: 'ReactJS',
+          imageUrl: 'https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png',
+          status: 'Beginner'
+        }
       ],
       tools: [
         {
@@ -95,6 +95,12 @@ export default {
           name: 'NPM',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-npm-3-1175132.png',
           status: 'Package Manager'
+        },
+        {
+          id: 4,
+          name: 'MySQL',
+          imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968313.png',
+          status: 'Database'
         },
       ]
     };
