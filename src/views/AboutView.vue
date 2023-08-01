@@ -6,7 +6,7 @@ export default {
       tech: [
         {
           id: 1,
-          name: 'CONTOH UPDATE',
+          name: 'HTML',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/1051/1051277.png',
           status: 'Advanced'
         },
