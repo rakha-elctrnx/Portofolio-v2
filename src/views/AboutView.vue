@@ -124,11 +124,11 @@ export default {
         class="text-sm md:text-lg text-justify flex flex-col gap-4 md:flex-row md:gap-8 md:justify-left md:items-center">
         <div class="flex justify-center">
           <img class="w-9/12 rounded-full mb-3 fadein-up"
-            src="https://i1.sndcdn.com/avatars-000214125831-5q6tdw-t500x500.jpg" alt="Foto">
+            src="https://i.pinimg.com/564x/92/0b/8b/920b8b713723dfae3ecb370be5337d9a.jpg" alt="Foto">
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Bagas Rakha Putra. I'm a web developer from Bogor, West Java. I
+            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Suditamaa. I'm a web developer from Jember jawa Timur, West Java. I
             have 1 year of experience in back-end web development.
             I really enjoy what I do right now, in my opinion, creating programs is not just a job, but also an art that
             has
