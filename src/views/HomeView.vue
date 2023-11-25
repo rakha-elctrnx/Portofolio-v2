@@ -25,7 +25,7 @@
         </svg>Download Resume</button> -->
     </div>
     <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="300" height="300" decoding="async" data-nimg="1"
-        class="w-10/12 md:h-auto rounded-full border-4 border-amber-200 pict" src="https://media.hitekno.com/thumbs/2022/08/25/27609-angie-marcheria-brand-ambassador-bigetron-esports/o-img-27609-angie-marcheria-brand-ambassador-bigetron-esports.jpg">
+        class="w-10/12 md:h-auto rounded-full border-4 border-amber-200 pict" src="https://i.pinimg.com/564x/71/3d/64/713d6488f6fc17674969f0b55acc79ef.jpg">
     </div>
   </main>
 </template>
