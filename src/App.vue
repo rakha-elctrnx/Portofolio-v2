@@ -119,7 +119,7 @@ nav a.router-link-exact-active::after {
   width: 100%;
   height: 4px;
   border-radius: 2px;
-  background-color: #ffdb70;
+  background-color: #709bff;
 }
 
 nav a.router-link-exact-active:hover {
