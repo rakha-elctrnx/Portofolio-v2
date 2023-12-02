@@ -79,7 +79,7 @@ export default {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #ffdb70;
+  background: #4862b4;
   border-radius: 5px;
 }
 
