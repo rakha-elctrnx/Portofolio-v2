@@ -139,7 +139,7 @@ body {
 
 .pict {
   box-shadow: 0px 0px 73px -9px rgba(0, 62, 128);
--webkit-box-shadow: 0px 0px 73px -9px rgba(255,219,112,0.44);
+-webkit-box-shadow: 0px 0px 73px -9px rgba(112, 136, 255, 0.44);
 -moz-box-shadow: 0px 0px 73px -9px rgba(255,219,112,0.44);
 }
 
