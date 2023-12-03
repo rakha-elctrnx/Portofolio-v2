@@ -6,7 +6,7 @@
     <nav class="max-w-7xl px-5 md:fixed top-0 z-[98] w-screen backdrop-blur-md bg-[#121212] bg-opacity-80">
       <div class="container mx-auto flex flex-wrap items-center justify-between">
         <button @click="redirectToHome" class="flex">
-          <span class="self-center text-lg text-[#ffdb70] font-semibold whitespace-nowrap fadein-bot hover:text-amber-100">bagasRakha();</span>
+          <span class="self-center text-lg text-[#709bff] font-semibold whitespace-nowrap fadein-bot hover:text-amber-100">Suditamaa();</span>
         </button>
         <div class="flex md:order-2 fadein-bot">
           <a href="https://github.com/rakha-elctrnx"><img class="w-9 rounded-full" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="github"></a>
@@ -79,7 +79,7 @@ export default {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #ffdb70;
+  background: #4862b4;
   border-radius: 5px;
 }
 
@@ -119,7 +119,7 @@ nav a.router-link-exact-active::after {
   width: 100%;
   height: 4px;
   border-radius: 2px;
-  background-color: #ffdb70;
+  background-color: #709bff;
 }
 
 nav a.router-link-exact-active:hover {

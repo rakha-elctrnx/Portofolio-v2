@@ -3,10 +3,10 @@
     class="mt-10 md:mt-1 flex flex-col-reverse gap-8 items-center md:flex-row md:gap-16 md:justify-center min-h-[65vh] md:min-h-[80vh]">
     <div class="space-y-2 text-center md:text-left px-10">
       <p class="text-amber-200">Hello World, I'm</p>
-      <h1 class="text-4xl font-bold md:text-5xl text-white fadein-up">Bagas Rakha</h1>
+      <h1 class="text-4xl font-bold md:text-5xl text-white fadein-up">Suditama.</h1>
       <div class="py-2">
         <h1
-          class="typewrite text-xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-slate-100 to-yellow-500 md:text-2xl fadein-up"
+          class="typewrite text-xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-slate-100 to-blue-500 md:text-2xl fadein-up"
           ref="typewriter">
           <span class="wrap">{{ txt }}</span>
         </h1>
@@ -25,7 +25,7 @@
         </svg>Download Resume</button> -->
     </div>
     <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="300" height="300" decoding="async" data-nimg="1"
-        class="w-10/12 md:h-auto rounded-full border-4 border-amber-200 pict" src="https://i1.sndcdn.com/avatars-000214125831-5q6tdw-t500x500.jpg">
+        class="w-10/12 md:h-auto rounded-full border-4 border-amber-200 pict" src=""https:https:"//encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_7zR6-pgUU0peKV52iuR7QVcIIN1ChtGJUQ&usqp=CAU">
     </div>
   </main>
 </template>
@@ -138,8 +138,8 @@ body {
 }
 
 .pict {
-  box-shadow: 0px 0px 73px -9px rgba(255,219,112,0.44);
--webkit-box-shadow: 0px 0px 73px -9px rgba(255,219,112,0.44);
+  box-shadow: 0px 0px 73px -9px rgba(0, 62, 128);
+-webkit-box-shadow: 0px 0px 73px -9px rgba(112, 136, 255, 0.44);
 -moz-box-shadow: 0px 0px 73px -9px rgba(255,219,112,0.44);
 }
 
