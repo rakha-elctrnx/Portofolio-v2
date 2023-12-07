@@ -87,7 +87,7 @@ export default {
 
 body {
   font-family: 'Poppins', sans-serif;
-  background: hsl(0, 0%, 7%);
+  background: hsl(0, 100%, 100%);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
