@@ -74,7 +74,7 @@ export default {
 }
 
 ::-webkit-scrollbar-track {
-  background: hsl(0, 0%, 100%);
+  background:hsl(0, 0%, 7%);
   border-radius: 5px;
 }
 
