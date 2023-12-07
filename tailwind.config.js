@@ -10,7 +10,7 @@ module.exports = {
     }),
     extend: {
       colors: {
-        'yellow-crayola': 'hsl(216, 100%, 72%);'
+        'steelblue': 'hsl(216, 100%, 72%);'
       }
     },
     animation: {
