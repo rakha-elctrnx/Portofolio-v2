@@ -74,7 +74,7 @@ export default {
 }
 
 ::-webkit-scrollbar-track {
-  background:hsl(0, 0%, 7%);
+  background:hsl(240, 1%, 17%);
   border-radius: 5px;
 }
 
@@ -87,7 +87,7 @@ export default {
 
 body {
   font-family: 'Poppins', sans-serif;
-  background: hsl(240, 1%, 17%);
+  background: hsl(0, 0%, 7%);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
