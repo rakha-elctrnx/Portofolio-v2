@@ -24,7 +24,7 @@
         </svg>Download Resume</button> -->
     </div>
     <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="150" height="150" decoding="async" data-nimg="1"
-        class="w-10/12 md:h-auto rounded-full border-4 border-amber-200 pict" src="https://i.pinimg.com/236x/66/55/32/665532ad079d1c301165f81e4248d39d.jpg">
+        class="w-10/12 md:h-auto rounded-full border-4 border-amber-200 pict" src="https://i.pinimg.com/564x/dd/61/52/dd6152a05977399dc6e3201bc4cdbca8.jpg">
     </div>
   </main>
 </template>
