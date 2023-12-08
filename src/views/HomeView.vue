@@ -1,4 +1,4 @@
-<template>
+ini<template>
   <main
     class="mt-10 md:mt-1 flex flex-col-reverse gap-8 items-center md:flex-row md:gap-16 md:justify-center min-h-[65vh] md:min-h-[80vh]">
     <div class="space-y-2 text-center md:text-left px-10">
@@ -34,7 +34,7 @@ export default {
   name: 'HomeView',
   data() {
     return {
-      toRotate: ["I Wanna Be Yours", "Full-stack Engineer", "Informatics Student", "Tech Enthusiast"],
+      toRotate: ["Alex Turner", "Full-stack Engineer", "Informatics Student", "Tech Enthusiast"],
       period: 2000,
       txt: '',
       loopNum: 0,
