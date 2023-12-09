@@ -24,7 +24,7 @@ ini<template>
         </svg>Download Resume</button> -->
     </div>
     <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="300" height="300" decoding="async" data-nimg="1"
-        class="w-10/12 md:h-auto rounded-full border-4 border-amber-150 pict" src="file:///C:/Users/sudit/Downloads/sbj2b3oj.png">
+        class="w-10/12 md:h-auto rounded-full border-4 border-amber-150 pict" src="https://i.pinimg.com/564x/c6/97/0c/c6970c424dcdf581f48e8e0bd607c427.jpg">
     </div>
   </main>
 </template>
