@@ -34,7 +34,7 @@ export default {
   name: 'HomeView',
   data() {
     return {
-      toRotate: ["You call the shots, babe", "R U Mine ?", "Informatics Student", "Tech Enthusiast"],
+      toRotate: ["You call the shots, babe", "dont'kill my vibe music . . .", "Informatics Student", "Tech Enthusiast"],
       period: 2000,
       txt: '',
       loopNum: 0,
