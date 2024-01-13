@@ -24,7 +24,7 @@ ini<template>
         </svg>Download Resume</button> -->
     </div>
     <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="300" height="300" decoding="async" data-nimg="1"
-        class="w-10/12 md:h-auto rounded-full border-4 border-amber-150 pict" src="https://i.pinimg.com/564x/dc/f3/f9/dcf3f98267462d36a5d0b615bebb64ab.jpg">
+        class="w-10/12 md:h-auto rounded-full border-4 border-amber-150 pict" src="https://private-user-images.githubusercontent.com/137113595/296516935-a858300d-3f57-4f32-8db1-f75b14127a10.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUxODI4OTksIm5iZiI6MTcwNTE4MjU5OSwicGF0aCI6Ii8xMzcxMTM1OTUvMjk2NTE2OTM1LWE4NTgzMDBkLTNmNTctNGYzMi04ZGIxLWY3NWIxNDEyN2ExMC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExM1QyMTQ5NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04OGQ0MTJhN2QwNjFmODlkZDFjMDI5YjJkZmZiNTViMTQ1ZTAxY2FlYzgwZTk4ZGNiMWY0ODgwMGJkYmQ0YTMzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.3-_rZKu3TywL9p6zWRaZrKZMhmfnLSCW7QT2S8KSFgQ">
     </div>
   </main>
 </template>
